@@ -1,0 +1,5 @@
+{
+  "name": "Calculator",
+  "description": "A simple, clean calculator app built with React and Tailwind CSS for basic arithmetic operations like addition, subtraction, multiplication, and division.",
+  "requestFramePermissions": []
+}
